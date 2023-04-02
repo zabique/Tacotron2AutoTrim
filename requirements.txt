@@ -1,2 +1,7 @@
 pydub~=0.25.1
 SpeechRecognition
+yt-dlp
+ffmpeg
+ffmpeg-python
+transcribe
+imageio-ffmpeg
